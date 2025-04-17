@@ -1,0 +1,27 @@
+[project]
+name = "pl-intro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "altair>=5.5.0",
+    "connectorx>=0.4.3",
+    "deltalake>=0.25.5",
+    "fastexcel>=0.13.0",
+    "hvplot>=0.11.2",
+    "ipython>=9.1.0",
+    "jupyterlab==4.2.5",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "patsy>=1.0.1",
+    "plotly>=6.0.1",
+    "polars>=1.27.1",
+    "polars-ols>=0.3.5",
+    "pyarrow>=19.0.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "xlsx2csv>=0.8.4",
+    "xlsxwriter>=3.2.2",
+]
